@@ -4,13 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Engineer of Ideas · Builder of Systems · Strategist for Change
+### Engineer of Innovation · Builder of Systems · Strategist for Change
 
 I work at the intersection of complexity, computation, and creativity—where systems thinking meets hands-on execution. My goal is to bridge the gap between abstract insight and practical transformation, building tools, processes, and movements that make a difference.
 
 ---
 
-### Think · Build · Transform
+### Think | Build | Transform
 
 My approach spans three core dimensions:
 
