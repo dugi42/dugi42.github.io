@@ -30,22 +30,28 @@
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.4.1" />
-<meta property="og:title" content="Transformation" />
+<meta property="og:title" content="Transformation Part III: Implementing Change" />
+<meta name="author" content="Daniel Hauser" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Helping to get bold ideas travel from experimental labs to real-world systems." />
-<meta property="og:description" content="Helping to get bold ideas travel from experimental labs to real-world systems." />
-<link rel="canonical" href="http://localhost:4000/categories/transformation/" />
-<meta property="og:url" content="http://localhost:4000/categories/transformation/" />
+<meta name="description" content="How to Successfully Implement Change in Your Organization" />
+<meta property="og:description" content="How to Successfully Implement Change in Your Organization" />
+<link rel="canonical" href="http://localhost:4000/posts/Transformation_Part_III-Innovation&Disruption/" />
+<meta property="og:url" content="http://localhost:4000/posts/Transformation_Part_III-Innovation&Disruption/" />
 <meta property="og:site_name" content="Daniel Hauser" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Transformation" />
+<meta property="og:image" content="http://localhost:4000/assets/img/blogs/transformation.png" />
+<meta property="og:image:alt" content="From Steam Engines to Autonomous Systems" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-05-27T05:33:00+02:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4000/assets/img/blogs/transformation.png" />
+<meta name="twitter:image:alt" content="From Steam Engines to Autonomous Systems" />
+<meta property="twitter:title" content="Transformation Part III: Implementing Change" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Helping to get bold ideas travel from experimental labs to real-world systems.","headline":"Transformation","url":"http://localhost:4000/categories/transformation/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Daniel Hauser"},"dateModified":"2025-05-27T05:33:00+02:00","datePublished":"2025-05-27T05:33:00+02:00","description":"How to Successfully Implement Change in Your Organization","headline":"Transformation Part III: Implementing Change","image":{"lqip":"data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAEAAAA==lq","alt":"From Steam Engines to Autonomous Systems","url":"http://localhost:4000/assets/img/blogs/transformation.png","@type":"imageObject"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/Transformation_Part_III-Innovation&Disruption/"},"url":"http://localhost:4000/posts/Transformation_Part_III-Innovation&Disruption/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
-  <title>Transformation | Daniel Hauser
+  <title>Transformation Part III: Implementing Change | Daniel Hauser
   </title>
 
   <!--
@@ -106,9 +112,16 @@
   <!-- 3rd-party Dependencies -->
 
   
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4.32.2/dist/tocbot.min.css">
   
 
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css">
+  
+
+  
+    <!-- Image Popup -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/css/glightbox.min.css">
   
 
   <!-- Scripts -->
@@ -124,6 +137,13 @@
 <!-- layout specified -->
 
 
+  
+
+  
+    <!-- image lazy-loading & popup & clipboard -->
+    
+  
+
 
 
 
@@ -173,9 +193,37 @@
 
   
 
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
 
 
-  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/dayjs@1.11.13/dayjs.min.js,npm/dayjs@1.11.13/locale/en.js,npm/dayjs@1.11.13/plugin/relativeTime.js,npm/dayjs@1.11.13/plugin/localizedFormat.js"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3.3.0/dist/js/glightbox.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.13/dayjs.min.js,npm/dayjs@1.11.13/locale/en.js,npm/dayjs@1.11.13/plugin/relativeTime.js,npm/dayjs@1.11.13/plugin/localizedFormat.js,npm/mermaid@11.4.0/dist/mermaid.min.js"></script>
 
 
 
@@ -183,11 +231,20 @@
 
 
 
-<script defer src="/assets/js/dist/misc.min.js"></script>
+<script defer src="/assets/js/dist/post.min.js"></script>
 
+
+  <!-- MathJax -->
+  <script async src="/assets/js/data/mathjax.js"></script>
+  <script async src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
 
 
 <!-- Pageviews -->
+
+  
+
+  
 
 
 
@@ -386,14 +443,10 @@
           
         
           
-            <span>
-              <a href="/categories/">Categories</a>
-            </span>
-          
         
           
             
-              <span>Transformation</span>
+              <span>Transformation Part III: Implementing Change</span>
             
 
           
@@ -407,7 +460,7 @@
     </button>
 
     <div id="topbar-title">
-      Category
+      Post
     </div>
 
     <button type="button" id="search-trigger" class="btn btn-link" aria-label="Search">
@@ -433,102 +486,421 @@
         <div class="row flex-grow-1">
           <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
             
+              <!-- Refactor the HTML structure -->
+
+
+
+<!--
+  In order to allow a wide table to scroll horizontally,
+  we suround the markdown table with `<div class="table-wrapper">` and `</div>`
+-->
+
+
+
+<!--
+  Fixed kramdown code highlight rendering:
+  https://github.com/penibelst/jekyll-compress-html/issues/101
+  https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901
+-->
+
+
+
+<!-- Change the icon of checkbox -->
+
+
+
+<!-- Handle images -->
+
+
+
+
+  
+  
+
+  
+    
+      
+      
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+    
+
+    
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+      
+
+      
+    
+
+    <!-- take out classes -->
+    
+
+    
+    
+
+    
+
+    
+      
+      
+
+      
+
+      <!-- add image placeholder -->
+      
+
+    
+
+    <!-- lazy-load images -->
+    
+
+    
+      <!-- make sure the `<img>` is wrapped by `<a>` -->
+      
+
+      
+        <!-- create the image wrapper -->
+        
+
+        
+        
+      
+    
+
+    <!-- combine -->
+    
+  
+
+  
+
+
+<!-- Add header for code snippets -->
+
+
+
+<!-- Create heading anchors -->
+
+
+
+
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+
+
+
+<!-- return -->
+
+
+
+
+
+
+
+
+
+
+<article class="px-1" data-toc="false">
+  <header>
+    <h1 data-toc-skip>Transformation Part III: Implementing Change</h1>
+    
+      <p class="post-desc fw-light mb-4">How to Successfully Implement Change in Your Organization</p>
+    
+
+    <div class="post-meta text-muted">
+      <!-- published date -->
+      <span>
+        Posted
+        <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1748316780"
+  data-df="ll"
+  
+    data-bs-toggle="tooltip" data-bs-placement="bottom"
+  
+>
+  May 27, 2025
+</time>
+
+      </span>
+
+      <!-- lastmod date -->
+      
+
+      
+        
+        
+        
+
+        
+
+        <div class="mt-3 mb-3">
+          <a href="/assets/img/blogs/transformation.png" class="popup img-link preview-img blur"><img data-src="/assets/img/blogs/transformation.png"  alt="From Steam Engines to Autonomous Systems" width="1200" height="630" data-lqip="true" src="data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAEAAAA==lq"></a><figcaption class="text-center pt-2 pb-2">From Steam Engines to Autonomous Systems</figcaption></div>
+      
+
+      <div class="d-flex justify-content-between">
+        <!-- author(s) -->
+        <span>
+          
+
+          By
+
+          <em>
+            
               
+                
+                
+              
+            
+          </em>
+        </span>
+
+        <div>
+          <!-- pageviews -->
+          
+
+          <!-- read time -->
+          <!-- Calculate the post's reading time, and display the word count in tooltip -->
 
 
 
-<article class="px-1">
-  
-    
-
-
-
-<div id="page-category">
-  <h1 class="ps-lg-2">
-    <i class="far fa-folder-open fa-fw text-muted"></i>
-    Transformation
-    <span class="lead text-muted ps-2">3</span>
-  </h1>
-
-  <ul class="content ps-0">
-    
-      <li class="d-flex justify-content-between px-md-3">
-        <a href="/posts/Transformation_Part_III-Innovation&Disruption/">Transformation Part III: Implementing Change</a>
-        <span class="dash flex-grow-1"></span>
-        <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
+<!-- words per minute -->
 
 
 
 
-<time
-  
-    class="text-muted small text-nowrap"
-  
-  data-ts="1748316780"
-  data-df="ll"
-  
+
+
+
+
+
+
+<!-- return element -->
+<span
+  class="readtime"
+  data-bs-toggle="tooltip"
+  data-bs-placement="bottom"
+  title="73 words"
 >
-  May 27, 2025
-</time>
+  <em>1 min</em> read</span>
 
-      </li>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  
+
+  <div class="content">
+    <h1 id="transformation-part-iii-tsdfadsf">Transformation Part III: Tsdfadsf</h1>
+
+<p>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+  </div>
+
+  <div class="post-tail-wrapper text-muted">
+    <!-- categories -->
     
-      <li class="d-flex justify-content-between px-md-3">
-        <a href="/posts/Transformation_Part_II-Leadership/">Transformation Part II: Implementing Change Beyond Digitalization</a>
-        <span class="dash flex-grow-1"></span>
-        <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
-
-
-
-
-<time
-  
-    class="text-muted small text-nowrap"
-  
-  data-ts="1748316780"
-  data-df="ll"
-  
->
-  May 27, 2025
-</time>
-
-      </li>
+      <div class="post-meta mb-3">
+        <i class="far fa-folder-open fa-fw me-1"></i>
+        
+          <a href="/categories/blogging/">Blogging</a>,
+          <a href="/categories/transformation/">Transformation</a>
+      </div>
     
-      <li class="d-flex justify-content-between px-md-3">
-        <a href="/posts/Transformation_Part_I-Organization/">Transformation Part I: Organizational Change Beyond Digitalization</a>
-        <span class="dash flex-grow-1"></span>
-        <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
 
-
-
-
-<time
-  
-    class="text-muted small text-nowrap"
-  
-  data-ts="1748316780"
-  data-df="ll"
-  
->
-  May 27, 2025
-</time>
-
-      </li>
+    <!-- tags -->
     
-  </ul>
+      <div class="post-tags">
+        <i class="fa fa-tags fa-fw me-1"></i>
+        
+          <a
+            href="/tags/transformation/"
+            class="post-tag no-text-decoration"
+          >transformation</a>
+        
+          <a
+            href="/tags/culture/"
+            class="post-tag no-text-decoration"
+          >culture</a>
+        
+          <a
+            href="/tags/digitalization/"
+            class="post-tag no-text-decoration"
+          >digitalization</a>
+        
+          <a
+            href="/tags/innovation/"
+            class="post-tag no-text-decoration"
+          >innovation</a>
+        
+          <a
+            href="/tags/industry/"
+            class="post-tag no-text-decoration"
+          >industry</a>
+        
+          <a
+            href="/tags/technology/"
+            class="post-tag no-text-decoration"
+          >technology</a>
+        
+          <a
+            href="/tags/leadership/"
+            class="post-tag no-text-decoration"
+          >leadership</a>
+        
+      </div>
+    
+
+    <div
+      class="
+        post-tail-bottom
+        d-flex justify-content-between align-items-center mt-5 pb-2
+      "
+    >
+      <div class="license-wrapper">
+        
+          
+
+          This post is licensed under 
+        <a href="https://creativecommons.org/licenses/by/4.0/">
+          CC BY 4.0
+        </a>
+         by the author.
+        
+      </div>
+
+      <!-- Post sharing snippet -->
+
+<div class="share-wrapper d-flex align-items-center">
+  <span class="share-label text-muted">Share</span>
+  <span class="share-icons">
+    
+    
+    
+
+    
+
+      
+
+      <a href="https://twitter.com/intent/tweet?text=Transformation%20Part%20III:%20Implementing%20Change%20-%20Daniel%20Hauser&url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2FTransformation_Part_III-Innovation%26Disruption%2F" target="_blank" rel="noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter" aria-label="Twitter">
+        <i class="fa-fw fa-brands fa-square-x-twitter"></i>
+      </a>
+    
+
+      
+
+      <a href="https://www.facebook.com/sharer/sharer.php?title=Transformation%20Part%20III:%20Implementing%20Change%20-%20Daniel%20Hauser&u=http%3A%2F%2Flocalhost%3A4000%2Fposts%2FTransformation_Part_III-Innovation%26Disruption%2F" target="_blank" rel="noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook" aria-label="Facebook">
+        <i class="fa-fw fab fa-facebook-square"></i>
+      </a>
+    
+
+      
+
+      <a href="https://t.me/share/url?url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2FTransformation_Part_III-Innovation%26Disruption%2F&text=Transformation%20Part%20III:%20Implementing%20Change%20-%20Daniel%20Hauser" target="_blank" rel="noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Telegram" aria-label="Telegram">
+        <i class="fa-fw fab fa-telegram"></i>
+      </a>
+    
+
+    <button
+      id="copy-link"
+      aria-label="Copy link"
+      class="btn small"
+      data-bs-toggle="tooltip"
+      data-bs-placement="top"
+      title="Copy link"
+      data-title-succeed="Link copied successfully!"
+    >
+      <i class="fa-fw fas fa-link pe-none fs-6"></i>
+    </button>
+  </span>
 </div>
 
-  
+    </div>
+    <!-- .post-tail-bottom -->
+  </div>
+  <!-- div.post-tail-wrapper -->
 </article>
+
 
             
           </main>
@@ -927,12 +1299,220 @@
             </div>
 
             
+              
+              
+
+
+
+
+
+
+
+            
           </aside>
         </div>
 
         <div class="row">
           <!-- tail -->
           <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            
+              
+              <!-- Recommend the other 3 posts according to the tags and categories of the current post. -->
+
+<!-- The total size of related posts -->
+
+
+<!-- An random integer that bigger than 0 -->
+
+
+<!-- Equals to TAG_SCORE / {max_categories_hierarchy} -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  <aside id="related-posts" aria-labelledby="related-label">
+    <h3 class="mb-4" id="related-label">Further Reading</h3>
+    <nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4">
+      
+        <article class="col">
+          <a href="/posts/Transformation_Part_II-Leadership/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1748316780"
+  data-df="ll"
+  
+>
+  May 27, 2025
+</time>
+
+              <h4 class="pt-0 my-2">Transformation Part II: Implementing Change Beyond Digitalization</h4>
+              <div class="text-muted">
+                <p>Why Leadership is Key to Successful Transformation</p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+        <article class="col">
+          <a href="/posts/Transformation_Part_I-Organization/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1748316780"
+  data-df="ll"
+  
+>
+  May 27, 2025
+</time>
+
+              <h4 class="pt-0 my-2">Transformation Part I: Organizational Change Beyond Digitalization</h4>
+              <div class="text-muted">
+                <p>Why True Transformation Demands More Than Digitalization</p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+        <article class="col">
+          <a href="/posts/AI-Robotics_Part_I-Landscape/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1748395980"
+  data-df="ll"
+  
+>
+  May 28, 2025
+</time>
+
+              <h4 class="pt-0 my-2">AI-Robotics Part I: Landscape and Maturity in AI-Robotics</h4>
+              <div class="text-muted">
+                <p>Test</p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+    </nav>
+  </aside>
+  <!-- #related-posts -->
+
+
+            
+              
+              <!-- Navigation buttons at the bottom of the post. -->
+
+<nav class="post-navigation d-flex justify-content-between" aria-label="Post Navigation">
+  
+  
+
+  
+    <a
+      href="/posts/Transformation_Part_II-Leadership/"
+      class="btn btn-outline-primary"
+      aria-label="Older"
+    >
+      <p>Transformation Part II: Implementing Change Beyond Digitalization</p>
+    </a>
+  
+
+  
+    <a
+      href="/posts/AI-Robotics_Part_I-Landscape/"
+      class="btn btn-outline-primary"
+      aria-label="Newer"
+    >
+      <p>AI-Robotics Part I: Landscape and Maturity in AI-Robotics</p>
+    </a>
+  
+</nav>
+
             
 
             <!-- The Footer -->
@@ -1360,6 +1940,11 @@
     
 
     <!-- Embedded scripts -->
+
+    
+      
+      <!-- The comments switcher -->
+
 
     
 

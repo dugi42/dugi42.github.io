@@ -1,15 +1,31 @@
 [
   {
-    "title": "AI-Austria Part I: Maturity in AI-Robotics",
-    "url": "/posts/AI-Austria_Part_I-Maturity_in_AI-Robotics/",
+    "title": "AI-Robotics Part I: Landscape and Maturity in AI-Robotics",
+    "url": "/posts/AI-Robotics_Part_I-Landscape/",
     "categories": "Blogging, AI-Austria",
     "tags": "transformation, digitalization, innovation, industry, technology, robotics, AI",
     "date": "2025-05-28 03:33:00 +0200",
     "content": "Test"
   },
   {
-    "title": "Transformation Part I: Beyond Digitalization",
-    "url": "/posts/Transformation_Part_I-Beyond_Digitalization/",
+    "title": "Transformation Part III: Implementing Change",
+    "url": "/posts/Transformation_Part_III-Innovation&Disruption/",
+    "categories": "Blogging, Transformation",
+    "tags": "transformation, culture, digitalization, innovation, industry, technology, leadership",
+    "date": "2025-05-27 05:33:00 +0200",
+    "content": "How to Successfully Implement Change in Your Organization"
+  },
+  {
+    "title": "Transformation Part II: Implementing Change Beyond Digitalization",
+    "url": "/posts/Transformation_Part_II-Leadership/",
+    "categories": "Blogging, Transformation",
+    "tags": "transformation, culture, digitalization, innovation, industry, technology, leadership",
+    "date": "2025-05-27 05:33:00 +0200",
+    "content": "Why Leadership is Key to Successful Transformation"
+  },
+  {
+    "title": "Transformation Part I: Organizational Change Beyond Digitalization",
+    "url": "/posts/Transformation_Part_I-Organization/",
     "categories": "Blogging, Transformation",
     "tags": "transformation, culture, digitalization, innovation, industry, technology",
     "date": "2025-05-27 05:33:00 +0200",

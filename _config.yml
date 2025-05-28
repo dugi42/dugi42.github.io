@@ -15,7 +15,7 @@ timezone: Europe/Vienna
 
 title: Daniel Hauser # the main title
 
-tagline: Bridging The Gap # it will display as the subtitle
+tagline: Bridging The Gap be # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Helping to get bold ideas travel from experimental labs to real-world systems.
