@@ -148,6 +148,7 @@ paginate: 10
 plugins:
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # The base URL of your site
 baseurl: ""
