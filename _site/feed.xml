@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-05-28T11:19:01+02:00</updated>
+  <updated>2025-05-28T11:42:15+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/AI-Austria_Part_I-Maturity_in_AI-Robotics/" rel="alternate" type="text/html" title="AI-Austria Part I: Maturity in AI-Robotics" />
     <published>2025-05-28T03:33:00+02:00</published>
   
-    <updated>2025-05-28T03:33:00+02:00</updated>
+    <updated>2025-05-28T11:19:14+02:00</updated>
   
     <id>http://localhost:4000/posts/AI-Austria_Part_I-Maturity_in_AI-Robotics/</id>
     <content type="text/html" src="http://localhost:4000/posts/AI-Austria_Part_I-Maturity_in_AI-Robotics/" />
@@ -50,7 +50,7 @@
     <link href="http://localhost:4000/posts/Transformation_Part_I-Beyond_Digitalization/" rel="alternate" type="text/html" title="Transformation Part I: Beyond Digitalization" />
     <published>2025-05-27T05:33:00+02:00</published>
   
-    <updated>2025-05-27T05:33:00+02:00</updated>
+    <updated>2025-05-28T11:41:08+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_I-Beyond_Digitalization/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I-Beyond_Digitalization/" />
