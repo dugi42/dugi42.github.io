@@ -3,7 +3,7 @@ name: Deploy Chirpy Site to GitHub Pages
 on:
   push:
     branches:
-      - main  # or 'master', whichever is your default
+      - main  # adjust if needed
 
 permissions:
   contents: read
@@ -29,10 +29,10 @@ jobs:
           bundle config set --local path 'vendor/bundle'
           bundle install
 
-      - name: Build the site
+      - name: Build site with Jekyll
         run: bundle exec jekyll build
 
-      - name: Upload artifact
+      - name: Upload site to GitHub Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./_site
