@@ -20,6 +20,7 @@ tagline: Bridging The Gap # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   Helping to get bold ideas travel from experimental labs to real-world systems.
 
+
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://dugi42.github.io" # change to your site URL
