@@ -2,8 +2,7 @@ name: Deploy Chirpy Site to GitHub Pages
 
 on:
   push:
-    branches:
-      - main  # adjust if needed
+    branches: [main]
 
 permissions:
   contents: read
@@ -15,8 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -29,10 +27,10 @@ jobs:
           bundle config set --local path 'vendor/bundle'
           bundle install
 
-      - name: Build site with Jekyll
+      - name: Build the site with Jekyll
         run: bundle exec jekyll build
 
-      - name: Upload site to GitHub Pages artifact
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./_site
@@ -42,7 +40,5 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+      - uses: actions/deploy-pages@v2
