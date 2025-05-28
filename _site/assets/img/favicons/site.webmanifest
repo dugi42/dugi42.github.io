@@ -1,0 +1,23 @@
+
+
+{
+  "name": "Daniel Hauser",
+  "short_name": "Daniel Hauser",
+  "description": "Helping to get bold ideas travel from experimental labs to real-world systems.",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/favicon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/favicon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+

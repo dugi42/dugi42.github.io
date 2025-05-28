@@ -1,0 +1,75 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Daniel Hauser</title>
+  <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
+  <updated>2025-05-28T11:03:30+02:00</updated>
+  <author>
+    <name>Daniel Hauser</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Daniel Hauser </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>AI-Austria Part I: Maturity in AI-Robotics</title>
+    <link href="http://localhost:4000/posts/AI-Austria_Part_I-Maturity_in_AI-Robotics/" rel="alternate" type="text/html" title="AI-Austria Part I: Maturity in AI-Robotics" />
+    <published>2025-05-28T03:33:00+02:00</published>
+  
+    <updated>2025-05-28T03:33:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/AI-Austria_Part_I-Maturity_in_AI-Robotics/</id>
+    <content type="text/html" src="http://localhost:4000/posts/AI-Austria_Part_I-Maturity_in_AI-Robotics/" />
+    <author>
+      <name>Daniel Hauser</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Test</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Transformation Part I: Beyond Digitalization</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_I-Beyond_Digitalization/" rel="alternate" type="text/html" title="Transformation Part I: Beyond Digitalization" />
+    <published>2025-05-27T05:33:00+02:00</published>
+  
+    <updated>2025-05-27T05:33:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Transformation_Part_I-Beyond_Digitalization/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I-Beyond_Digitalization/" />
+    <author>
+      <name>Daniel Hauser</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Why True Transformation Demands More Than Digitalization</summary>
+
+  </entry>
+
+</feed>
+
+
