@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-05-28T15:09:34+02:00</updated>
+  <updated>2025-05-28T18:48:34+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>AI-Robotics Part I: Landscape and Maturity in AI-Robotics</title>
-    <link href="http://localhost:4000/posts/AI-Robotics_Part_I-Landscape/" rel="alternate" type="text/html" title="AI-Robotics Part I: Landscape and Maturity in AI-Robotics" />
+    <title>AI-Robotics I: Landscape and Maturity</title>
+    <link href="http://localhost:4000/posts/AI-Robotics_Part_I/" rel="alternate" type="text/html" title="AI-Robotics I: Landscape and Maturity" />
     <published>2025-05-28T03:33:00+02:00</published>
   
     <updated>2025-05-28T03:33:00+02:00</updated>
   
-    <id>http://localhost:4000/posts/AI-Robotics_Part_I-Landscape/</id>
-    <content type="text/html" src="http://localhost:4000/posts/AI-Robotics_Part_I-Landscape/" />
+    <id>http://localhost:4000/posts/AI-Robotics_Part_I/</id>
+    <content type="text/html" src="http://localhost:4000/posts/AI-Robotics_Part_I/" />
     <author>
       <name>Daniel Hauser</name>
     </author>
@@ -40,20 +40,20 @@
     
   
 
-  <summary>Test</summary>
+  <summary>Coming soon!</summary>
 
   </entry>
 
   
   <entry>
-    <title>Transformation Part III: Implementing Change</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_III-Innovation&amp;Disruption/" rel="alternate" type="text/html" title="Transformation Part III: Implementing Change" />
+    <title>Transformation  III: Controlled Organizational Self-Disruption</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Transformation  III: Controlled Organizational Self-Disruption" />
     <published>2025-05-27T05:33:00+02:00</published>
   
     <updated>2025-05-27T05:33:00+02:00</updated>
   
-    <id>http://localhost:4000/posts/Transformation_Part_III-Innovation&amp;Disruption/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III-Innovation&amp;Disruption/" />
+    <id>http://localhost:4000/posts/Transformation_Part_III/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III/" />
     <author>
       <name>Daniel Hauser</name>
     </author>
@@ -66,20 +66,20 @@
     
   
 
-  <summary>How to Successfully Implement Change in Your Organization</summary>
+  <summary>Self-Disruption as the Key to Stay Relevant</summary>
 
   </entry>
 
   
   <entry>
-    <title>Transformation Part II: Implementing Change Beyond Digitalization</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_II-Leadership/" rel="alternate" type="text/html" title="Transformation Part II: Implementing Change Beyond Digitalization" />
+    <title>Transformation II: Implementing Change Beyond Digitalization</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Transformation II: Implementing Change Beyond Digitalization" />
     <published>2025-05-27T05:33:00+02:00</published>
   
     <updated>2025-05-27T05:33:00+02:00</updated>
   
-    <id>http://localhost:4000/posts/Transformation_Part_II-Leadership/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II-Leadership/" />
+    <id>http://localhost:4000/posts/Transformation_Part_II/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
     <author>
       <name>Daniel Hauser</name>
     </author>
@@ -92,20 +92,20 @@
     
   
 
-  <summary>Why Leadership is Key to Successful Transformation</summary>
+  <summary>Why Leadership and Technology are Key to Successful Transformation</summary>
 
   </entry>
 
   
   <entry>
-    <title>Transformation Part I: Organizational Change Beyond Digitalization</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_I-Organization/" rel="alternate" type="text/html" title="Transformation Part I: Organizational Change Beyond Digitalization" />
-    <published>2025-05-27T05:33:00+02:00</published>
+    <title>Transformation I: The Limits of Digtial Transformation</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: The Limits of Digtial Transformation" />
+    <published>2025-04-05T05:33:00+02:00</published>
   
-    <updated>2025-05-27T05:33:00+02:00</updated>
+    <updated>2025-04-05T05:33:00+02:00</updated>
   
-    <id>http://localhost:4000/posts/Transformation_Part_I-Organization/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I-Organization/" />
+    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
     <author>
       <name>Daniel Hauser</name>
     </author>
