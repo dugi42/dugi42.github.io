@@ -4,8 +4,8 @@ layout: post
 description: Test
 author: Daniel Hauser
 date: 2025-05-28 09:33:00 +0800
-categories: [Blogging, Transformation]
-tags: [transformation, digitalization, innovation, industry, technology]
+categories: [Blogging, AI-Austria]
+tags: [transformation, digitalization, innovation, industry, technology, robotics, AI]
 pin: true
 math: true
 mermaid: true

@@ -5,7 +5,7 @@ description:  Why True Transformation Demands More Than Digitalization
 author: Daniel Hauser
 date: 2025-05-27 11:33:00 +0800
 categories: [Blogging, Transformation]
-tags: [transformation, digitalization, innovation, industry, technology]
+tags: [transformation, culture, digitalization, innovation, industry, technology]
 pin: true
 math: true
 mermaid: true
