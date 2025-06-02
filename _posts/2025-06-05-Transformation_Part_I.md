@@ -75,7 +75,13 @@ The following two definitions are used to measure cultural health:
 ![Time-to-Productivity vs. Duration-of-Employment](assets/img/blogs/transformation1/ttp_vs_doe.png)
 _**Figure 3:** (Left) Time-to-Productivity vs. Duration-of-Employment. (Right) Evolution of Time-to-Procductivity and Duration of Employment._
 
-**Figure 3** illustrates the relationship between Time-to-Productivity and Duration-of-Employment. The left side shows the two metrics plotted against each other, while the right side shows the evolution of the two metrics over time. The ideal state is a low Time-to-Productivity and a high Duration-of-Employment, which indicates a healthy culture that is able to onboard new employees quickly and retain them for a long time.
+**Figure 3** illustrates the relationship between Time-to-Productivity and Duration-of-Employment. The left side shows the two metrics plotted against each other, while the right side shows the evolution of the two metrics over time. The ideal state is a low Time-to-Productivity and a high Duration-of-Employment, which indicates a healthy culture that is able to onboard new employees quickly and retain them for a long time. The ratio of the two metrics is defined as the **Cultural Drag Index** $$\eta$$
+
+$$
+\eta = \frac{\tau_{TTP}}{\tau_{DoE}}
+$$
+
+where $$\tau_{TTP}$$ is the Time-to-Productivity and $$\tau_{DoE}$$ is the Duration-of-Employment. The Cultural Drag Index can be used to define different cultural health regimes, as shown in **Figure 4**.
 
 ![Cultural Drag Index](assets/img/blogs/transformation1/cultural_drag_index.png)
 _**Figure 4:** (Left) External and internal influences on the Time-to-Productivity and Duration-of-Employment. (Right) Cultural Drag Index defining different cultural health regimes._
