@@ -62,9 +62,9 @@ Digitalization initiativ are often introduced (Artifical Intelligence, Cloud Tec
 
 **But how can we measure cultural health? How can we identify the early signs of cultural decline and take action to address them before they impact business health metrics**
 
-The next chapter will explore a new paradigm for measuring cultural health that goes beyond traditional employee satisfaction surveys and engagement metrics. It will introduce two key metrics: Time-to-Productivity and Duration-of-Employment, which can provide valuable insights into the cultural health of an organization and help drive transformation.
+The next chapter will explore a new approach for measuring cultural health that goes beyond traditional employee satisfaction surveys and engagement metrics. It will introduce two key metrics: Time-to-Productivity and Duration-of-Employment, which can provide valuable insights into the cultural health of an organization and help drive transformation.
 
-### A new paradigm for measuring cultural health
+### A new approach for measuring cultural health
 
 The following two definitions are used to measure cultural health:
 
@@ -87,3 +87,15 @@ where $$\tau_{TTP}$$ is the Time-to-Productivity and $$\tau_{DoE}$$ is the Durat
 _**Figure 4:** (Left) External and internal influences on the Time-to-Productivity and Duration-of-Employment. (Right) Cultural Drag Index defining different cultural health regimes._
 
 **Figure 4** illustrates the external and internal influences on the Time-to-Productivity and Duration-of-Employment. The left side shows the different factors that can influence the two metrics, such as external market conditions, internal processes, and cultural health. The right side shows the Cultural Drag Index, which defines different cultural health regimes based on the relationship between Time-to-Productivity and Duration-of-Employment.
+
+
+### Case Study: Open Source HR-Data 
+To illustrate the use of Time-to-Productivity and Duration-of-Employment as measures of cultural health, we will look at a case study of a large organization that has been struggling with cultural decline. The organization has been facing high employee turnover, low employee engagement, and a lack of innovation. The leadership team has been trying to address these issues through digitalization initiatives, but they have not been successful in creating a sustainable transformation.
+
+
+### Summary
+In this first part of the series, we have explored the limits of digitalization and the need for transformation in organizations. We have discussed the lifecycle of organizations and how cultural health can be measured using Time-to-Productivity and Duration-of-Employment. We have introduced the Cultural Drag Index as a new metric for measuring cultural health and identifying areas for improvement.
+
+# Outlook
+
+The second part of this series will offer some practical examples on how to implement cultural change and transformation in organizations. It will explore how to use the Cultural Drag Index to identify areas of improvement and how to create a culture of innovation and agility. It will also discuss the role of leadership in driving transformation and how to create a positive feedback loop where cultural health and business health reinforce each other.
