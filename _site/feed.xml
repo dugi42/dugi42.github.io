@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-06-02T15:59:37+02:00</updated>
+  <updated>2025-06-02T16:17:31+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,37 @@
 
   
   <entry>
+    <title>Transformation II: Implementing Change Beyond Digitalization</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Transformation II: Implementing Change Beyond Digitalization" />
+    <published>2025-05-27T05:33:00+02:00</published>
+  
+    <updated>2025-06-02T16:12:35+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Transformation_Part_II/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
+    <author>
+      <name>dugi42</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Culture &amp;amp; Technology are Key to Successful Transformation</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Transformation I: The Limits of Digtialization</title>
     <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: The Limits of Digtialization" />
     <published>2025-04-05T05:33:00+02:00</published>
   
-    <updated>2025-06-02T15:52:23+02:00</updated>
+    <updated>2025-06-02T16:12:35+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_I/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
