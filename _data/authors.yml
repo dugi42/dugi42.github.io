@@ -6,7 +6,8 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-dugi4:
+dugi42:
   name: Daniel Hauser
+  email: hauserdugi@gmail.com
 
 # The author_id is used in the author page URL, e.g. /authors/{author_id}/

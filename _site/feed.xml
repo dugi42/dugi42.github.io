@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-05-28T18:48:34+02:00</updated>
+  <updated>2025-06-02T15:15:05+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -20,86 +20,8 @@
 
   
   <entry>
-    <title>AI-Robotics I: Landscape and Maturity</title>
-    <link href="http://localhost:4000/posts/AI-Robotics_Part_I/" rel="alternate" type="text/html" title="AI-Robotics I: Landscape and Maturity" />
-    <published>2025-05-28T03:33:00+02:00</published>
-  
-    <updated>2025-05-28T03:33:00+02:00</updated>
-  
-    <id>http://localhost:4000/posts/AI-Robotics_Part_I/</id>
-    <content type="text/html" src="http://localhost:4000/posts/AI-Robotics_Part_I/" />
-    <author>
-      <name>Daniel Hauser</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="AI-Robotics" />
-    
-  
-
-  <summary>Coming soon!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Transformation  III: Controlled Organizational Self-Disruption</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Transformation  III: Controlled Organizational Self-Disruption" />
-    <published>2025-05-27T05:33:00+02:00</published>
-  
-    <updated>2025-05-27T05:33:00+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Transformation_Part_III/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III/" />
-    <author>
-      <name>Daniel Hauser</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Self-Disruption as the Key to Stay Relevant</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Transformation II: Implementing Change Beyond Digitalization</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Transformation II: Implementing Change Beyond Digitalization" />
-    <published>2025-05-27T05:33:00+02:00</published>
-  
-    <updated>2025-05-27T05:33:00+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Transformation_Part_II/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
-    <author>
-      <name>Daniel Hauser</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Why Leadership and Technology are Key to Successful Transformation</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Transformation I: The Limits of Digtial Transformation</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: The Limits of Digtial Transformation" />
+    <title>Transformation I: The Limits of Digtialization</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: The Limits of Digtialization" />
     <published>2025-04-05T05:33:00+02:00</published>
   
     <updated>2025-04-05T05:33:00+02:00</updated>
@@ -107,7 +29,7 @@
     <id>http://localhost:4000/posts/Transformation_Part_I/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
     <author>
-      <name>Daniel Hauser</name>
+      <name>dugi42</name>
     </author>
 
   
