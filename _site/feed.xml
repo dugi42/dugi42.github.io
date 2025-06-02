@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-06-02T15:15:05+02:00</updated>
+  <updated>2025-06-02T15:51:41+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: The Limits of Digtialization" />
     <published>2025-04-05T05:33:00+02:00</published>
   
-    <updated>2025-04-05T05:33:00+02:00</updated>
+    <updated>2025-06-02T15:16:24+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_I/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
