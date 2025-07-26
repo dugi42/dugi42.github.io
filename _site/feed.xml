@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-07-01T12:10:38+02:00</updated>
+  <updated>2025-07-26T10:12:03+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -20,27 +20,27 @@
 
   
   <entry>
-    <title>AI-Robotics I: Landscape and Maturity</title>
-    <link href="http://localhost:4000/posts/AI-Robotics_Part_I/" rel="alternate" type="text/html" title="AI-Robotics I: Landscape and Maturity" />
-    <published>2025-05-28T03:33:00+02:00</published>
+    <title>Transformation I: Why Digitalization Isn't Enough</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: Why Digitalization Isn&amp;apos;t Enough" />
+    <published>2025-06-01T06:00:00+02:00</published>
   
-    <updated>2025-06-02T15:16:24+02:00</updated>
+    <updated>2025-06-02T16:12:35+02:00</updated>
   
-    <id>http://localhost:4000/posts/AI-Robotics_Part_I/</id>
-    <content type="text/html" src="http://localhost:4000/posts/AI-Robotics_Part_I/" />
+    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
     <author>
-      <name>Daniel Hauser</name>
+      <name>dugi42</name>
     </author>
 
   
     
     <category term="Blogging" />
     
-    <category term="AI-Robotics" />
+    <category term="Transformation" />
     
   
 
-  <summary>Coming soon!</summary>
+  <summary>Real transformation starts where digitalization stops: with culture, communication, and leadership.</summary>
 
   </entry>
 
@@ -50,7 +50,7 @@
     <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Transformation  III: Controlled Organizational Self-Disruption" />
     <published>2025-05-27T05:33:00+02:00</published>
   
-    <updated>2025-06-02T15:16:24+02:00</updated>
+    <updated>2025-07-01T12:11:14+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_III/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III/" />
@@ -93,32 +93,6 @@
   
 
   <summary>Culture &amp;amp; Technology are Key to Successful Transformation</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Transformation I: The Limits of Digtialization</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: The Limits of Digtialization" />
-    <published>2025-04-05T05:33:00+02:00</published>
-  
-    <updated>2025-06-02T16:12:35+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
-    <author>
-      <name>dugi42</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Why True Transformation Demands More Than Digitalization</summary>
 
   </entry>
 
