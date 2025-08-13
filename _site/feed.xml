@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
-  <subtitle>Helping to get bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-08-13T19:25:07+02:00</updated>
+  <subtitle>Driving bold ideas travel from experimental labs to real-world systems.</subtitle>
+  <updated>2025-08-13T19:46:29+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -28,32 +28,6 @@
   
     <id>http://localhost:4000/posts/Tranformation_Part_I/</id>
     <content type="text/html" src="http://localhost:4000/posts/Tranformation_Part_I/" />
-    <author>
-      <name>dugi42</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Real transformation starts where digitalization stops: with culture, communication, and leadership.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Transformation I: Why Digitalization Isn't Enough</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation I: Why Digitalization Isn&amp;apos;t Enough" />
-    <published>2025-06-01T06:00:00+02:00</published>
-  
-    <updated>2025-07-26T10:47:41+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
     <author>
       <name>dugi42</name>
     </author>
