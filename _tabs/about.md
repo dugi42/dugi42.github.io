@@ -15,33 +15,35 @@ I work at the intersection of complexity, computation, and creativity—where sy
 My approach spans three core dimensions:
 
 - **First Principles Thinking**  
-  Exploring physics-inspired models and conceptual frameworks to uncover patterns and unlock new possibilities.
+  Diving deep into physics-inspired models and conceptual frameworks to uncover patterns and spark fresh possibilities.
 
 - **Holistic System Design**  
-  Engineering robust, adaptive systems that integrate digital, physical, and human components.
+  Engineering robust, adaptive systems that seamlessly blend digital, physical, and human elements.
 
 - **Applied Innovation**  
-  Turning deep insights into scalable solutions that deliver real-world performance and impact.
+  Turning insight into scalable solutions that drive real-world impact and performance.
 
 ---
 
-Strategic thinking is at the heart of my work—seeing the whole, anticipating change, and aligning innovation with long-term goals. I thrive in interdisciplinary environments and aspire to lead teams that navigate complexity with clarity, focus, and courage.
+Strategic thinking guides everything I do—seeing the full landscape, anticipating change, and aligning innovation with long-term goals. I thrive in interdisciplinary settings and aim to lead teams that navigate complexity with clarity, focus, and grit.
 
-My work goes beyond problem-solving. It’s about enabling new modes of reasoning, fostering collaboration, and creating systems that adapt, evolve, and empower.
+My work isn’t just about solving problems. It’s about enabling new ways of thinking, fostering collaboration, and creating systems that evolve, adapt, and empower.
 
 ---
 
 ### Areas of Focus
 
-- Strategic design of innovation infrastructures  
-- Context-aware and intelligent systems  
-- Physics-informed simulation and modeling  
-- Signal processing, diagnostics, and scientific tools  
-- Edge computing and decentralized intelligence  
+- **Full-Stack Innovation** – Bridging research, software, and hardware into cohesive, scalable solutions.  
+- **From Lab to Factory** – Translating cutting-edge science into industrial processes and market-ready products.  
+- **Cross-Scale Engineering** – Comfortable from hands-on prototyping and field implementation to enterprise-level systems design.  
+- **Dual-Context Expertise** – Operating seamlessly in both agile startup cultures and highly regulated corporate environments.  
+- **Advanced Analytics & Modeling** – Statistical, algorithmic, and physics-informed approaches for insight and prediction.  
+- **Precision Systems & Metrology** – Developing and integrating optical, laser, and measurement technologies.  
+- **Strategic Innovation Leadership** – Building teams, structures, and roadmaps that drive long-term transformation.  
 
 ---
 
-I see engineering as the execution layer of philosophy—and systems design as strategic storytelling. Whether through code, process, or vision, I aim to shape what comes next.
+I see engineering as the execution layer of and system design as strategic storytelling. Through code, process, and vision, I'm reshaping what's next.
 
 **Let’s design with purpose.**  
 **Let’s make the invisible visible.**
