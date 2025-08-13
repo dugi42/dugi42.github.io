@@ -1,5 +1,5 @@
 ---
-title: "Transformation  III: Controlled Organizational Self-Disruption"
+title: "Navigating Organizational Transformation: Part 3 - Controlled Organizational Self-Disruption"
 layout: post
 description: Self-Disruption as the Key to Stay Relevant
 author: Daniel Hauser

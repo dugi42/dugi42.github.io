@@ -1,5 +1,5 @@
 ---
-title: "Transformation II: Implementing Change Beyond Digitalization"
+title: "Navigating Organizational Transformation: Part 2 - Implementing Change Beyond Digitalization"
 layout: post
 description: Culture & Technology are Key to Successful Transformation
 author: dugi42
