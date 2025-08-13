@@ -3,7 +3,7 @@ title: "Navigating Organizational Transformation: Part 2 - Implementing Change B
 layout: post
 description: Culture & Technology are Key to Successful Transformation
 author: dugi42
-date: 2025-05-27 11:33:00 +0800
+date: 2025-08-13 11:33:00 +0800
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, industry, technology, leadership]
 pin: true

@@ -4,7 +4,7 @@ layout: post
 description: "Real transformation starts where digitalization stops: with culture, communication, and leadership."
 author: dugi42
 
-date: 2025-06-01 12:00:00 +0800
+date: 2025-08-12 12:00:00 +0800
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, leadership]
 pin: true

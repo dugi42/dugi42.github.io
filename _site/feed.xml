@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Driving bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-08-13T20:02:47+02:00</updated>
+  <updated>2025-08-13T20:06:28+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -20,37 +20,11 @@
 
   
   <entry>
-    <title>Navigating Organizational Transformation: Part 1 - Assessing the Current State</title>
-    <link href="http://localhost:4000/posts/Tranformation_Part_I/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 1 - Assessing the Current State" />
-    <published>2025-06-01T06:00:00+02:00</published>
-  
-    <updated>2025-06-01T06:00:00+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Tranformation_Part_I/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Tranformation_Part_I/" />
-    <author>
-      <name>dugi42</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Real transformation starts where digitalization stops: with culture, communication, and leadership.</summary>
-
-  </entry>
-
-  
-  <entry>
     <title>Navigating Organizational Transformation: Part 3 - Controlled Organizational Self-Disruption</title>
     <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 3 - Controlled Organizational Self-Disruption" />
-    <published>2025-05-27T05:33:00+02:00</published>
+    <published>2025-08-13T10:33:00+02:00</published>
   
-    <updated>2025-08-13T19:51:13+02:00</updated>
+    <updated>2025-08-13T10:33:00+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_III/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III/" />
@@ -74,9 +48,9 @@
   <entry>
     <title>Navigating Organizational Transformation: Part 2 - Implementing Change Beyond Digitalization</title>
     <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 2 - Implementing Change Beyond Digitalization" />
-    <published>2025-05-27T05:33:00+02:00</published>
+    <published>2025-08-13T05:33:00+02:00</published>
   
-    <updated>2025-08-13T19:51:13+02:00</updated>
+    <updated>2025-08-13T05:33:00+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_II/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
@@ -93,6 +67,32 @@
   
 
   <summary>Culture &amp;amp; Technology are Key to Successful Transformation</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Navigating Organizational Transformation: Part 1 - Assessing the Current State</title>
+    <link href="http://localhost:4000/posts/Tranformation_Part_I/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 1 - Assessing the Current State" />
+    <published>2025-08-12T06:00:00+02:00</published>
+  
+    <updated>2025-08-12T06:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Tranformation_Part_I/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Tranformation_Part_I/" />
+    <author>
+      <name>dugi42</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Real transformation starts where digitalization stops: with culture, communication, and leadership.</summary>
 
   </entry>
 

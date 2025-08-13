@@ -3,7 +3,7 @@ title: "Navigating Organizational Transformation: Part 3 - Controlled Organizati
 layout: post
 description: Self-Disruption as the Key to Stay Relevant
 author: Daniel Hauser
-date: 2025-05-27 11:33:00 +0800
+date: 2025-08-13 16:33:00 +0800
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, industry, technology, leadership]
 pin: true
