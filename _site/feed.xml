@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Driving bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-08-13T20:06:28+02:00</updated>
+  <updated>2025-08-24T19:15:11+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -76,7 +76,7 @@
     <link href="http://localhost:4000/posts/Tranformation_Part_I/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 1 - Assessing the Current State" />
     <published>2025-08-12T06:00:00+02:00</published>
   
-    <updated>2025-08-12T06:00:00+02:00</updated>
+    <updated>2025-08-13T20:09:24+02:00</updated>
   
     <id>http://localhost:4000/posts/Tranformation_Part_I/</id>
     <content type="text/html" src="http://localhost:4000/posts/Tranformation_Part_I/" />
