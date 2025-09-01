@@ -98,7 +98,7 @@ Beyond the macro S-curve trajectory, successful organizational transformation hi
 
 ### Defining Organisational Health
 
-Organisational Health refers to the overall effectiveness of an organization in achieving its goals while maintaining a positive work environment. It encompasses the dimensions of cultural, technology, business and leadership. A healthy organization fosters a culture of trust, innovation, and continuous improvement, enabling it to respond effectively to internal and external challenges.
+Organisational Health refers to the overall effectiveness of an organization in achieving its goals while maintaining a positive work environment. It encompasses the dimensions of culture, technology, business and leadership. A healthy organization fosters a culture of trust, innovation, and continuous improvement, enabling it to respond effectively to internal and external challenges.
 
 While Organisational Health is a broad concept, it can be measured through various indicators described in the following sections.
 
@@ -112,9 +112,9 @@ The importance of TTP cannot be overstated. Shorter TTP directly translates to c
 
 ### Defining Duration-of-Employment (DoE)
 
-In this article, DoE represents Duration-of-Employment, or employee tenure. This interpretation aligns with its consistent use as a metric on the X-axis of organizational graphs (Figure 2), signifying the length of time employees remain with the organization. For the purpose of this analysis, DoE will refer to employee tenure.
-
 High Duration-of-Employment generally indicates organizational stability, effective talent retention, and the preservation of crucial institutional knowledge within the workforce. Conversely, low DoE, or high employee turnover, can be significantly costly and disruptive, negatively impacting productivity, organizational learning, and overall morale.
+
+Depending on the industry, the average DoE can vary widely. For example, in technology sectors, where rapid innovation is common, employees may have shorter tenures as they move between projects or companies. In contrast, industries like healthcare or education may see longer tenures due to the specialized knowledge and relationships built over time. The sweet spot for DoE often lies in balancing the need for fresh perspectives with the value of deep institutional knowledge.
 
 ### Analyzing the TTP-DoE Relationship: The Zones of Organizational Health
 
