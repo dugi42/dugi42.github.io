@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Driving bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-09-01T20:38:09+02:00</updated>
+  <updated>2025-09-01T21:04:02+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>A Three-Part Series on Navigating Organizational Transformation</title>
     <link href="http://localhost:4000/posts/Tranformation-Prelude/" rel="alternate" type="text/html" title="A Three-Part Series on Navigating Organizational Transformation" />
-    <published>2025-09-01T13:00:00+02:00</published>
+    <published>2025-08-31T11:00:00+02:00</published>
   
-    <updated>2025-09-01T13:15:21+02:00</updated>
+    <updated>2025-09-01T15:30:00+02:00</updated>
   
     <id>http://localhost:4000/posts/Tranformation-Prelude/</id>
     <content type="text/html" src="http://localhost:4000/posts/Tranformation-Prelude/" />
@@ -46,63 +46,11 @@
 
   
   <entry>
-    <title>Transformation Part 1 - Assessing Your State of Culture</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation Part 1 - Assessing Your State of Culture" />
-    <published>2025-09-01T12:30:00+02:00</published>
-  
-    <updated>2025-09-01T13:15:21+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
-    <author>
-      <name>dugi42</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Understanding your organization’s current state is fundamental for effective transformation.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Transformation Part 2 - Driving Change</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Transformation Part 2 - Driving Change" />
-    <published>2025-09-01T12:00:00+02:00</published>
-  
-    <updated>2025-09-01T13:15:21+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Transformation_Part_II/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
-    <author>
-      <name>dugi42</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Leadership is Key to Successful Transformation</summary>
-
-  </entry>
-
-  
-  <entry>
     <title>Transformation Part 3 - Controlled Self-Disruption</title>
     <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Transformation Part 3 - Controlled Self-Disruption" />
-    <published>2025-09-01T11:00:00+02:00</published>
+    <published>2025-08-31T09:00:00+02:00</published>
   
-    <updated>2025-09-01T13:15:21+02:00</updated>
+    <updated>2025-09-01T19:30:00+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_III/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III/" />
@@ -126,9 +74,9 @@
   <entry>
     <title>AI-Robotics I: Landscape and Maturity</title>
     <link href="http://localhost:4000/posts/AI-Robotics_Part_I/" rel="alternate" type="text/html" title="AI-Robotics I: Landscape and Maturity" />
-    <published>2025-09-01T02:00:00+02:00</published>
+    <published>2025-08-31T08:00:00+02:00</published>
   
-    <updated>2025-09-01T13:15:21+02:00</updated>
+    <updated>2025-09-01T20:30:00+02:00</updated>
   
     <id>http://localhost:4000/posts/AI-Robotics_Part_I/</id>
     <content type="text/html" src="http://localhost:4000/posts/AI-Robotics_Part_I/" />
@@ -145,6 +93,58 @@
   
 
   <summary>Coming soon!</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Transformation Part 2 - Driving Change</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Transformation Part 2 - Driving Change" />
+    <published>2025-08-15T10:00:00+02:00</published>
+  
+    <updated>2025-09-01T19:30:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Transformation_Part_II/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
+    <author>
+      <name>dugi42</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Leadership is Key to Successful Transformation</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Transformation Part 1 - Assessing Your State of Culture</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation Part 1 - Assessing Your State of Culture" />
+    <published>2025-07-01T11:00:00+02:00</published>
+  
+    <updated>2025-09-01T19:30:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
+    <author>
+      <name>dugi42</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Understanding your organization’s current state is fundamental for effective transformation.</summary>
 
   </entry>
 

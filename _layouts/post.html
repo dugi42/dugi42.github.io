@@ -36,6 +36,16 @@ script_includes:
         </span>
       {% endif %}
 
+      {% if page.changelog %}
+      <div class="changelog">
+        <h2>Change Log</h2>
+        <ul>
+          {% for change in page.changelog %}
+          <li>{{ change }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
       {% if page.image %}
         {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
         {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}

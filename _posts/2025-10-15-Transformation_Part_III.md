@@ -3,7 +3,10 @@ title: "Transformation Part 3 - Controlled Self-Disruption"
 layout: post
 description: Self-Disruption as the opportunity to Reframe your Future
 author: dugi42
-date: 2025-09-01 09:00:00 +0000
+date: 2025-08-31 09:00:00 +0200
+last_modified_at: 2025-09-01 19:30:00 +0200
+
+version: 0.1.0
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, industry, technology, leadership]
 pin: true

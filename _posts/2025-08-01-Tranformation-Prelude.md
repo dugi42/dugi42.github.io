@@ -3,8 +3,16 @@ title: "A Three-Part Series on Navigating Organizational Transformation"
 layout: post
 description: "Connecting the dots - from where you are to where you need to be."
 author: dugi42
+date: 2025-08-31 11:00:00 +0200
+last_modified_at: 2025-09-01 15:30:00 +0200
 
-date: 2025-09-01 11:00:00 +0000
+version: 1.0.0
+changelog:
+  - Updated to version 1.0.0
+  - Added major part to the total overview of the three-part series.
+  - Improved the overall structure and flow of the content.
+  - Enhanced the visual design and layout for better readability.
+
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, leadership]
 pin: true

@@ -4,31 +4,15 @@
     "url": "/posts/Tranformation-Prelude/",
     "categories": "Blogging, Transformation",
     "tags": "transformation, culture, digitalization, innovation, leadership",
-    "date": "2025-09-01 13:00:00 +0200",
+    "date": "2025-08-31 11:00:00 +0200",
     "content": "Connecting the dots - from where you are to where you need to be."
-  },
-  {
-    "title": "Transformation Part 1 - Assessing Your State of Culture",
-    "url": "/posts/Transformation_Part_I/",
-    "categories": "Blogging, Transformation",
-    "tags": "transformation, culture, digitalization, innovation, leadership",
-    "date": "2025-09-01 12:30:00 +0200",
-    "content": "Understanding your organization’s current state is fundamental for effective transformation."
-  },
-  {
-    "title": "Transformation Part 2 - Driving Change",
-    "url": "/posts/Transformation_Part_II/",
-    "categories": "Blogging, Transformation",
-    "tags": "transformation, culture, digitalization, innovation, industry, technology, leadership",
-    "date": "2025-09-01 12:00:00 +0200",
-    "content": "Leadership is Key to Successful Transformation"
   },
   {
     "title": "Transformation Part 3 - Controlled Self-Disruption",
     "url": "/posts/Transformation_Part_III/",
     "categories": "Blogging, Transformation",
     "tags": "transformation, culture, digitalization, innovation, industry, technology, leadership",
-    "date": "2025-09-01 11:00:00 +0200",
+    "date": "2025-08-31 09:00:00 +0200",
     "content": "Self-Disruption as the opportunity to Reframe your Future"
   },
   {
@@ -36,8 +20,24 @@
     "url": "/posts/AI-Robotics_Part_I/",
     "categories": "Blogging, AI-Robotics",
     "tags": "transformation, digitalization, innovation, industry, technology, robotics, AI",
-    "date": "2025-09-01 02:00:00 +0200",
+    "date": "2025-08-31 08:00:00 +0200",
     "content": "Coming soon!"
+  },
+  {
+    "title": "Transformation Part 2 - Driving Change",
+    "url": "/posts/Transformation_Part_II/",
+    "categories": "Blogging, Transformation",
+    "tags": "transformation, culture, digitalization, innovation, industry, technology, leadership",
+    "date": "2025-08-15 10:00:00 +0200",
+    "content": "Leadership is Key to Successful Transformation"
+  },
+  {
+    "title": "Transformation Part 1 - Assessing Your State of Culture",
+    "url": "/posts/Transformation_Part_I/",
+    "categories": "Blogging, Transformation",
+    "tags": "transformation, culture, digitalization, innovation, leadership",
+    "date": "2025-07-01 11:00:00 +0200",
+    "content": "Understanding your organization’s current state is fundamental for effective transformation."
   }
   
 ]

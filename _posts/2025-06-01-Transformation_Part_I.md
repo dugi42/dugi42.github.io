@@ -3,8 +3,17 @@ title: "Transformation Part 1 - Assessing Your State of Culture"
 layout: post
 description: "Understanding your organization’s current state is fundamental for effective transformation."
 author: dugi42
+date: 2025-07-01 11:00:00 +0200
+last_modified_at: 2025-09-01 19:30:00 +0200
 
-date: 2025-09-01 10:30:00 +0000
+version: 1.0.0
+changelog:
+  - Updated to version 1.0.0
+  - Added major revisions to the transformation framework.
+  - Changed the overall structure and flow of the content.
+  - Removed outdated examples and replaced them with more relevant case studies.
+  - Enhanced the visual design and layout for better readability.
+
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, leadership]
 pin: true
@@ -116,9 +125,9 @@ High Duration-of-Employment generally indicates organizational stability, effect
 
 Depending on the industry, the average DoE can vary widely. For example, in technology sectors, where rapid innovation is common, employees may have shorter tenures as they move between projects or companies. In contrast, industries like healthcare or education may see longer tenures due to the specialized knowledge and relationships built over time. The sweet spot for DoE often lies in balancing the need for fresh perspectives with the value of deep institutional knowledge.
 
-### Analyzing the TTP-DoE Relationship: The Zones of Organizational Health
+### The Zones of Organizational Health
 
-This section explains in more detail the intricate interplay between TTP and DoE, defining three critical zones that reflect an organization's health. **Figure 2** shows these quadrants as well as one scenario for the time evolution of TTP and DoE. For simplicity, this chapter assumes business is healthy. Business health and its interplay with organizational health will be discussed in more detail in the section [Business and Culture in Transformation](#business-and-culture-in-transformation) and in great detail in [Transformation Part 3 - Controlled Self-Disruption]({% post_url 2025-10-15-Transformation_Part_III %}).
+This section explains in more detail the intricate interplay between TTP and DoE, defining three critical zones that reflect an organization's health. **Figure 2** shows various zones as well as one scenario for the time evolution of TTP and DoE. For simplicity, this chapter assumes business is healthy. Business health and its interplay with organizational health will be discussed in more detail in the section [Business and Culture in Transformation](#business-and-culture-in-transformation) and in great detail in [Transformation Part 3 - Controlled Self-Disruption]({% post_url 2025-10-15-Transformation_Part_III %}).
 
 ![TTP vs. DoE health zones and their evolution over time.](assets/img/blogs/transformation/ttp_vs_doe.png)
 _**Figure 2:** (Left) Time-to-Productivity vs. Duration-of-Employment. (Right) Evolution of Time-to-Productivity and Duration-of-Employment._
