@@ -4,7 +4,7 @@ layout: post
 description: "Understanding your organization’s current state is fundamental for effective transformation."
 author: dugi42
 
-date: 2025-09-01 08:00:00 +0000
+date: 2025-09-01 10:30:00 +0000
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, leadership]
 pin: true

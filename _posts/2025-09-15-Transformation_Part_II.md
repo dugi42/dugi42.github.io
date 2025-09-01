@@ -3,7 +3,7 @@ title: "Transformation Part 2 - Driving Change"
 layout: post
 description: Leadership is Key to Successful Transformation
 author: dugi42
-date: 2025-09-01 08:00:00 +0000
+date: 2025-09-01 10:00:00 +0000
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, industry, technology, leadership]
 pin: true

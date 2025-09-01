@@ -4,7 +4,7 @@ layout: post
 description: "Connecting the dots - from where you are to where you need to be."
 author: dugi42
 
-date: 2025-09-01 07:00:00 +0000
+date: 2025-09-01 11:00:00 +0000
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, leadership]
 pin: true

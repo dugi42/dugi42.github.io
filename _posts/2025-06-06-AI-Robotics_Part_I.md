@@ -3,7 +3,7 @@ title: "AI-Robotics I: Landscape and Maturity"
 layout: post
 description: Coming soon!
 author: Daniel Hauser
-date: 2025-09-01 05:0000 +0800
+date: 2025-09-01 08:0000 +0800
 categories: [Blogging, AI-Robotics]
 tags: [transformation, digitalization, innovation, industry, technology, robotics, AI]
 pin: true
