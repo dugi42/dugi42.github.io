@@ -19,7 +19,7 @@ image:
 ---
 
 
-## Coming soon!
+## Coming soon
 
 > "Self-disruption is the only way to stay relevant in a rapidly changing world."
 > - Unknown
