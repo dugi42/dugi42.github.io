@@ -1,21 +1,21 @@
 ---
-title: "Navigating Organizational Transformation: Part 2 - Implementing Change Beyond Digitalization"
+title: "Transformation Part 2 - Driving Change"
 layout: post
-description: Culture & Technology are Key to Successful Transformation
+description: Leadership is Key to Successful Transformation
 author: dugi42
-date: 2025-08-13 11:33:00 +0800
+date: 2025-09-01 08:00:00 +0000
 categories: [Blogging, Transformation]
 tags: [transformation, culture, digitalization, innovation, industry, technology, leadership]
 pin: true
 math: true
 mermaid: true
 image:
-  path: assets/img/blogs/transformation2/transformation_2.png
+  path: assets/img/blogs/transformation/transformation2.png
   lqip: data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAEAAAA==lq
   alt: Focus on the People, and the Technology will Follow
 ---
 
-**Comming soon!**
+## Coming soon!
 
 > Transformation feels like pushing a rope."
 >

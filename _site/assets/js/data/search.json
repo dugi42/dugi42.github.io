@@ -1,27 +1,43 @@
 [
   {
-    "title": "Navigating Organizational Transformation: Part 3 - Controlled Organizational Self-Disruption",
+    "title": "Transformation Part 3 - Controlled Self-Disruption",
     "url": "/posts/Transformation_Part_III/",
     "categories": "Blogging, Transformation",
     "tags": "transformation, culture, digitalization, innovation, industry, technology, leadership",
-    "date": "2025-08-13 10:33:00 +0200",
-    "content": "Self-Disruption as the Key to Stay Relevant"
+    "date": "2025-09-01 10:00:00 +0200",
+    "content": "Self-Disruption as the opportunity to Reframe your Future"
   },
   {
-    "title": "Navigating Organizational Transformation: Part 1 - Assessing our Current State",
-    "url": "/posts/Transformation_Part_I/",
-    "categories": "Blogging, Transformation",
-    "tags": "transformation, culture, digitalization, innovation, leadership",
-    "date": "2025-08-13 06:00:00 +0200",
-    "content": "Real transformation starts where digitalization stops: with culture, communication, and leadership."
-  },
-  {
-    "title": "Navigating Organizational Transformation: Part 2 - Implementing Change Beyond Digitalization",
+    "title": "Transformation Part 2 - Driving Change",
     "url": "/posts/Transformation_Part_II/",
     "categories": "Blogging, Transformation",
     "tags": "transformation, culture, digitalization, innovation, industry, technology, leadership",
-    "date": "2025-08-13 05:33:00 +0200",
-    "content": "Culture &amp; Technology are Key to Successful Transformation"
+    "date": "2025-09-01 10:00:00 +0200",
+    "content": "Leadership is Key to Successful Transformation"
+  },
+  {
+    "title": "Transformation Part 1 - Assessing Your State of Culture",
+    "url": "/posts/Transformation_Part_I/",
+    "categories": "Blogging, Transformation",
+    "tags": "transformation, culture, digitalization, innovation, leadership",
+    "date": "2025-09-01 10:00:00 +0200",
+    "content": "Understanding your organization’s current state is fundamental for effective transformation."
+  },
+  {
+    "title": "A Three-Part Series on Navigating Organizational Transformation",
+    "url": "/posts/Tranformation-Prelude/",
+    "categories": "Blogging, Transformation",
+    "tags": "transformation, culture, digitalization, innovation, leadership",
+    "date": "2025-09-01 09:00:00 +0200",
+    "content": "Connecting the dots - from where you are to where you need to be."
+  },
+  {
+    "title": "AI-Robotics I: Landscape and Maturity",
+    "url": "/posts/AI-Robotics_Part_I/",
+    "categories": "Blogging, AI-Robotics",
+    "tags": "transformation, digitalization, innovation, industry, technology, robotics, AI",
+    "date": "2025-08-31 23:00:00 +0200",
+    "content": "Coming soon!"
   }
   
 ]

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Driving bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-08-28T13:22:07+02:00</updated>
+  <updated>2025-09-01T13:05:58+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -20,40 +20,14 @@
 
   
   <entry>
-    <title>Navigating Organizational Transformation: Part 3 - Controlled Organizational Self-Disruption</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 3 - Controlled Organizational Self-Disruption" />
-    <published>2025-08-13T10:33:00+02:00</published>
+    <title>Transformation Part 3 - Controlled Self-Disruption</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Transformation Part 3 - Controlled Self-Disruption" />
+    <published>2025-09-01T10:00:00+02:00</published>
   
-    <updated>2025-08-13T10:33:00+02:00</updated>
+    <updated>2025-09-01T10:00:00+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_III/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III/" />
-    <author>
-      <name>Daniel Hauser</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Transformation" />
-    
-  
-
-  <summary>Self-Disruption as the Key to Stay Relevant</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Navigating Organizational Transformation: Part 1 - Assessing our Current State</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 1 - Assessing our Current State" />
-    <published>2025-08-13T06:00:00+02:00</published>
-  
-    <updated>2025-08-13T06:00:00+02:00</updated>
-  
-    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
     <author>
       <name>dugi42</name>
     </author>
@@ -66,17 +40,17 @@
     
   
 
-  <summary>Real transformation starts where digitalization stops: with culture, communication, and leadership.</summary>
+  <summary>Self-Disruption as the opportunity to Reframe your Future</summary>
 
   </entry>
 
   
   <entry>
-    <title>Navigating Organizational Transformation: Part 2 - Implementing Change Beyond Digitalization</title>
-    <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Navigating Organizational Transformation: Part 2 - Implementing Change Beyond Digitalization" />
-    <published>2025-08-13T05:33:00+02:00</published>
+    <title>Transformation Part 2 - Driving Change</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Transformation Part 2 - Driving Change" />
+    <published>2025-09-01T10:00:00+02:00</published>
   
-    <updated>2025-08-13T05:33:00+02:00</updated>
+    <updated>2025-09-01T10:00:00+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_II/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
@@ -92,7 +66,85 @@
     
   
 
-  <summary>Culture &amp;amp; Technology are Key to Successful Transformation</summary>
+  <summary>Leadership is Key to Successful Transformation</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Transformation Part 1 - Assessing Your State of Culture</title>
+    <link href="http://localhost:4000/posts/Transformation_Part_I/" rel="alternate" type="text/html" title="Transformation Part 1 - Assessing Your State of Culture" />
+    <published>2025-09-01T10:00:00+02:00</published>
+  
+    <updated>2025-09-01T10:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Transformation_Part_I/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_I/" />
+    <author>
+      <name>dugi42</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Understanding your organization’s current state is fundamental for effective transformation.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>A Three-Part Series on Navigating Organizational Transformation</title>
+    <link href="http://localhost:4000/posts/Tranformation-Prelude/" rel="alternate" type="text/html" title="A Three-Part Series on Navigating Organizational Transformation" />
+    <published>2025-09-01T09:00:00+02:00</published>
+  
+    <updated>2025-09-01T09:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Tranformation-Prelude/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Tranformation-Prelude/" />
+    <author>
+      <name>dugi42</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Transformation" />
+    
+  
+
+  <summary>Connecting the dots - from where you are to where you need to be.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>AI-Robotics I: Landscape and Maturity</title>
+    <link href="http://localhost:4000/posts/AI-Robotics_Part_I/" rel="alternate" type="text/html" title="AI-Robotics I: Landscape and Maturity" />
+    <published>2025-08-31T23:00:00+02:00</published>
+  
+    <updated>2025-07-26T10:12:24+02:00</updated>
+  
+    <id>http://localhost:4000/posts/AI-Robotics_Part_I/</id>
+    <content type="text/html" src="http://localhost:4000/posts/AI-Robotics_Part_I/" />
+    <author>
+      <name>Daniel Hauser</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="AI-Robotics" />
+    
+  
+
+  <summary>Coming soon!</summary>
 
   </entry>
 
