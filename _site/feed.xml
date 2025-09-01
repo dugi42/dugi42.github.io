@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Daniel Hauser</title>
   <subtitle>Driving bold ideas travel from experimental labs to real-world systems.</subtitle>
-  <updated>2025-09-01T13:05:58+02:00</updated>
+  <updated>2025-09-01T13:09:33+02:00</updated>
   <author>
     <name>Daniel Hauser</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/Transformation_Part_III/" rel="alternate" type="text/html" title="Transformation Part 3 - Controlled Self-Disruption" />
     <published>2025-09-01T10:00:00+02:00</published>
   
-    <updated>2025-09-01T10:00:00+02:00</updated>
+    <updated>2025-09-01T13:06:31+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_III/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_III/" />
@@ -50,7 +50,7 @@
     <link href="http://localhost:4000/posts/Transformation_Part_II/" rel="alternate" type="text/html" title="Transformation Part 2 - Driving Change" />
     <published>2025-09-01T10:00:00+02:00</published>
   
-    <updated>2025-09-01T10:00:00+02:00</updated>
+    <updated>2025-09-01T13:06:31+02:00</updated>
   
     <id>http://localhost:4000/posts/Transformation_Part_II/</id>
     <content type="text/html" src="http://localhost:4000/posts/Transformation_Part_II/" />
@@ -128,7 +128,7 @@
     <link href="http://localhost:4000/posts/AI-Robotics_Part_I/" rel="alternate" type="text/html" title="AI-Robotics I: Landscape and Maturity" />
     <published>2025-08-31T23:00:00+02:00</published>
   
-    <updated>2025-07-26T10:12:24+02:00</updated>
+    <updated>2025-09-01T13:06:31+02:00</updated>
   
     <id>http://localhost:4000/posts/AI-Robotics_Part_I/</id>
     <content type="text/html" src="http://localhost:4000/posts/AI-Robotics_Part_I/" />
