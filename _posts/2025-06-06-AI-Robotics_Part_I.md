@@ -13,9 +13,10 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: assets/img/blogs/ai-austria/AIR-logo.png
+  path: assets/img/blogs/ai-austria/ai-robotics.png
   lqip: data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAEAAAA==lq
   alt: AI-Robotics as the next big thing in AI
 ---
 
 ## Coming soon
+
